@@ -1,0 +1,1 @@
+XQuiz is a quiz application that allows us to create a Quiz that is made up of multiple Questions. Each Question will have multiple choices of which one of them will be a correct answer. This application can display the created Quiz to a user, get their choices for the Quiz, evaluate them, and provide a score.
